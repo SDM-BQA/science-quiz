@@ -1,0 +1,773 @@
+[
+    {
+    "topic_name": "General Science Knowledge",
+    "topic_id": 0,
+    "questions": [
+      {
+        "question": "What is the chemical symbol for water?",
+        "options": ["H2O", "CO2", "O2", "NaCl"],
+        "answer": "H2O"
+      },
+      {
+        "question": "Which gas do plants primarily use during photosynthesis?",
+        "options": ["Oxygen", "Carbon dioxide", "Nitrogen", "Hydrogen"],
+        "answer": "Carbon dioxide"
+      },
+      {
+        "question": "What is the powerhouse of the cell?",
+        "options": ["Mitochondria", "Nucleus", "Endoplasmic reticulum", "Ribosome"],
+        "answer": "Mitochondria"
+      },
+      {
+        "question": "What is the largest organ in the human body?",
+        "options": ["Heart", "Liver", "Skin", "Brain"],
+        "answer": "Skin"
+      },
+      {
+        "question": "What is the unit of measurement for force?",
+        "options": ["Watt", "Newton", "Joule", "Volt"],
+        "answer": "Newton"
+      },
+      {
+        "question": "Which planet is known as the Red Planet?",
+        "options": ["Mars", "Jupiter", "Venus", "Mercury"],
+        "answer": "Mars"
+      },
+      {
+        "question": "What causes the tides in the oceans?",
+        "options": ["Gravitational pull of the moon", "Rotation of the Earth", "Wind currents", "Solar radiation"],
+        "answer": "Gravitational pull of the moon"
+      },
+      {
+        "question": "What is the hardest natural substance on Earth?",
+        "options": ["Diamond", "Gold", "Platinum", "Iron"],
+        "answer": "Diamond"
+      },
+      {
+        "question": "Which type of electromagnetic radiation has the longest wavelength?",
+        "options": ["Radio waves", "X-rays", "Visible light", "Gamma rays"],
+        "answer": "Radio waves"
+      },
+      {
+        "question": "What is the chemical symbol for gold?",
+        "options": ["Go", "Au", "Ag", "Gd"],
+        "answer": "Au"
+      },
+      {
+        "question": "What is the process by which plants make their food?",
+        "options": ["Photosynthesis", "Respiration", "Fermentation", "Transpiration"],
+        "answer": "Photosynthesis"
+      },
+      {
+        "question": "What is the main component of the Earth's atmosphere?",
+        "options": ["Oxygen", "Carbon dioxide", "Nitrogen", "Helium"],
+        "answer": "Nitrogen"
+      },
+      {
+        "question": "What is the chemical symbol for iron?",
+        "options": ["Ir", "Fe", "In", "I"],
+        "answer": "Fe"
+      },
+      {
+        "question": "What is the process by which water changes from a liquid to a gas?",
+        "options": ["Evaporation", "Condensation", "Sublimation", "Precipitation"],
+        "answer": "Evaporation"
+      },
+      {
+        "question": "What is the Earth's primary source of energy?",
+        "options": ["Fossil fuels", "Wind", "Solar radiation", "Nuclear fusion"],
+        "answer": "Solar radiation"
+      },
+      {
+        "question": "What type of energy does an object possess due to its motion?",
+        "options": ["Potential energy", "Kinetic energy", "Chemical energy", "Thermal energy"],
+        "answer": "Kinetic energy"
+      },
+      {
+        "question": "Which gas makes up the majority of the Earth's atmosphere?",
+        "options": ["Oxygen", "Carbon dioxide", "Nitrogen", "Hydrogen"],
+        "answer": "Nitrogen"
+      },
+      {
+        "question": "What is the process by which rocks are broken down into smaller pieces?",
+        "options": ["Erosion", "Deposition", "Weathering", "Subduction"],
+        "answer": "Weathering"
+      },
+      {
+        "question": "Which organ produces insulin in the human body?",
+        "options": ["Liver", "Pancreas", "Stomach", "Kidneys"],
+        "answer": "Pancreas"
+      },
+      {
+        "question": "What is the smallest bone in the human body?",
+        "options": ["Femur", "Stapes", "Humerus", "Tibia"],
+        "answer": "Stapes"
+      },
+      {
+        "question": "Which gas do humans exhale when they breathe out?",
+        "options": ["Oxygen", "Carbon dioxide", "Nitrogen", "Hydrogen"],
+        "answer": "Carbon dioxide"
+      },
+      {
+        "question": "What is the chemical symbol for sodium?",
+        "options": ["So", "Na", "Sn", "N"],
+        "answer": "Na"
+      },
+      {
+        "question": "What is the process by which plants lose water through their leaves?",
+        "options": ["Photosynthesis", "Respiration", "Fermentation", "Transpiration"],
+        "answer": "Transpiration"
+      },
+      {
+        "question": "What is the unit of measurement for energy?",
+        "options": ["Watt", "Joule", "Newton", "Volt"],
+        "answer": "Joule"
+      }
+    ]
+  },
+  {
+    "topic_name": "Famous Scientists and Inventions",
+    "topic_id": 1,
+    "questions": [
+      {
+        "question": "Who invented the telephone?",
+        "options": ["Thomas Edison", "Alexander Graham Bell", "Nikola Tesla", "Albert Einstein"],
+        "answer": "Alexander Graham Bell"
+      },
+      {
+        "question": "Who discovered penicillin?",
+        "options": ["Alexander Fleming", "Marie Curie", "Louis Pasteur", "Gregor Mendel"],
+        "answer": "Alexander Fleming"
+      },
+      {
+        "question": "Who formulated the theory of relativity?",
+        "options": ["Isaac Newton", "Galileo Galilei", "Albert Einstein", "Stephen Hawking"],
+        "answer": "Albert Einstein"
+      },
+      {
+        "question": "Who is known as the father of modern physics?",
+        "options": ["Isaac Newton", "Galileo Galilei", "Albert Einstein", "Stephen Hawking"],
+        "answer": "Albert Einstein"
+      },
+      {
+        "question": "Who discovered the laws of planetary motion?",
+        "options": ["Isaac Newton", "Galileo Galilei", "Johannes Kepler", "Nicolaus Copernicus"],
+        "answer": "Johannes Kepler"
+      },
+      {
+        "question": "Who is credited with the discovery of electricity?",
+        "options": ["Thomas Edison", "Benjamin Franklin", "Nikola Tesla", "Michael Faraday"],
+        "answer": "Benjamin Franklin"
+      },
+      {
+        "question": "Who developed the first successful polio vaccine?",
+        "options": ["Jonas Salk", "Edward Jenner", "Louis Pasteur", "Robert Koch"],
+        "answer": "Jonas Salk"
+      },
+      {
+        "question": "Who is known for the theory of evolution by natural selection?",
+        "options": ["Charles Darwin", "Gregor Mendel", "Alfred Wegener", "Jean-Baptiste Lamarck"],
+        "answer": "Charles Darwin"
+      },
+      {
+        "question": "Who invented the light bulb?",
+        "options": ["Thomas Edison", "Alexander Graham Bell", "Nikola Tesla", "Albert Einstein"],
+        "answer": "Thomas Edison"
+      },
+      {
+        "question": "Who proposed the heliocentric model of the solar system?",
+        "options": ["Isaac Newton", "Galileo Galilei", "Johannes Kepler", "Nicolaus Copernicus"],
+        "answer": "Nicolaus Copernicus"
+      },
+      {
+        "question": "Who discovered the structure of DNA?",
+        "options": ["Francis Crick and James Watson", "Rosalind Franklin", "Gregor Mendel", "Alfred Hershey and Martha Chase"],
+        "answer": "Francis Crick and James Watson"
+      },
+      {
+        "question": "Who invented the first practical airplane?",
+        "options": ["Wright Brothers", "Leonardo da Vinci", "Amelia Earhart", "Louis Blériot"],
+        "answer": "Wright Brothers"
+      },
+      {
+        "question": "Who discovered radioactivity?",
+        "options": ["Marie Curie", "Albert Einstein", "Ernest Rutherford", "Niels Bohr"],
+        "answer": "Marie Curie"
+      },
+      {
+        "question": "Who invented the steam engine?",
+        "options": ["James Watt", "Isaac Newton", "George Stephenson", "Thomas Edison"],
+        "answer": "James Watt"
+      },
+      {
+        "question": "Who developed the theory of general relativity?",
+        "options": ["Albert Einstein", "Isaac Newton", "Stephen Hawking", "Nikola Tesla"],
+        "answer": "Albert Einstein"
+      },
+      {
+        "question": "Who is known for the discovery of the double-helix structure of DNA?",
+        "options": ["Francis Crick", "Rosalind Franklin", "Gregor Mendel", "James Watson"],
+        "answer": "Francis Crick"
+      },
+      {
+        "question": "Who invented the first practical incandescent light bulb?",
+        "options": ["Thomas Edison", "Nikola Tesla", "Alexander Graham Bell", "Michael Faraday"],
+        "answer": "Thomas Edison"
+      },
+      {
+        "question": "Who discovered the law of gravity?",
+        "options": ["Isaac Newton", "Galileo Galilei", "Albert Einstein", "Stephen Hawking"],
+        "answer": "Isaac Newton"
+      },
+      {
+        "question": "Who invented the telescope?",
+        "options": ["Galileo Galilei", "Johannes Kepler", "Isaac Newton", "Nicolaus Copernicus"],
+        "answer": "Galileo Galilei"
+      },
+      {
+        "question": "Who invented the printing press?",
+        "options": ["Johannes Gutenberg", "Leonardo da Vinci", "Benjamin Franklin", "Isaac Newton"],
+        "answer": "Johannes Gutenberg"
+      },
+      {
+        "question": "Who discovered the law of motion?",
+        "options": ["Isaac Newton", "Galileo Galilei", "Albert Einstein", "Stephen Hawking"],
+        "answer": "Isaac Newton"
+      },
+      {
+        "question": "Who is known for the theory of special relativity?",
+        "options": ["Albert Einstein", "Isaac Newton", "Stephen Hawking", "Nikola Tesla"],
+        "answer": "Albert Einstein"
+      },
+      {
+        "question": "Who invented the first successful practical steamboat?",
+        "options": ["Robert Fulton", "Isambard Kingdom Brunel", "John Fitch", "George Stephenson"],
+        "answer": "Robert Fulton"
+      },
+      {
+        "question": "Who is known as the founder of modern chemistry?",
+        "options": ["Antoine Lavoisier", "Dmitri Mendeleev", "Robert Boyle", "John Dalton"],
+        "answer": "Antoine Lavoisier"
+      }
+    ]
+  },  
+  {
+    "topic_name": "Climate Change",
+    "topic_id": 2,
+    "questions": [
+      {
+        "question": "What is the primary greenhouse gas responsible for global warming?",
+        "options": ["Carbon dioxide", "Methane", "Nitrous oxide", "Water vapor"],
+        "answer": "Carbon dioxide"
+      },
+      {
+        "question": "Which human activity is the largest contributor to carbon dioxide emissions?",
+        "options": ["Transportation", "Deforestation", "Electricity generation", "Agriculture"],
+        "answer": "Electricity generation"
+      },
+      {
+        "question": "What is the main cause of the hole in the ozone layer?",
+        "options": ["Chlorofluorocarbons (CFCs)", "Carbon dioxide emissions", "Methane emissions", "Sulfur dioxide emissions"],
+        "answer": "Chlorofluorocarbons (CFCs)"
+      },
+      {
+        "question": "What is the term used to describe the gradual increase in the Earth's average temperature?",
+        "options": ["Global warming", "Climate change", "Greenhouse effect", "Ozone depletion"],
+        "answer": "Global warming"
+      },
+      {
+        "question": "Which region is most vulnerable to the impacts of climate change?",
+        "options": ["Small island states", "Northern Europe", "North America", "Central Asia"],
+        "answer": "Small island states"
+      },
+      {
+        "question": "What is the term for the process by which greenhouse gases trap heat in the Earth's atmosphere?",
+        "options": ["Greenhouse effect", "Albedo effect", "Ozone depletion", "Thermal inversion"],
+        "answer": "Greenhouse effect"
+      },
+      {
+        "question": "Which country is the largest emitter of carbon dioxide?",
+        "options": ["China", "United States", "India", "Russia"],
+        "answer": "China"
+      },
+      {
+        "question": "What is the term used to describe the increase in the Earth's average temperature due to human activities?",
+        "options": ["Anthropogenic warming", "Natural variability", "Solar forcing", "Ocean circulation"],
+        "answer": "Anthropogenic warming"
+      },
+      {
+        "question": "What is the process by which glaciers and ice caps melt due to rising temperatures?",
+        "options": ["Glacial retreat", "Ice floe", "Permafrost thawing", "Ice calving"],
+        "answer": "Glacial retreat"
+      },
+      {
+        "question": "Which gas, released during rice cultivation and livestock farming, is a potent greenhouse gas?",
+        "options": ["Methane", "Carbon dioxide", "Nitrous oxide", "Water vapor"],
+        "answer": "Methane"
+      },
+      {
+        "question": "What is the term for the average weather conditions in a region over a long period of time?",
+        "options": ["Climate", "Weather", "Atmosphere", "Temperature"],
+        "answer": "Climate"
+      },
+      {
+        "question": "What is the main consequence of sea level rise?",
+        "options": ["Flooding", "Desertification", "Glacial retreat", "Ocean acidification"],
+        "answer": "Flooding"
+      },
+      {
+        "question": "What is the term for the process by which carbon dioxide is absorbed by trees and other plants?",
+        "options": ["Carbon sequestration", "Photosynthesis", "Respiration", "Decomposition"],
+        "answer": "Carbon sequestration"
+      },
+      {
+        "question": "Which international agreement aims to reduce greenhouse gas emissions to combat climate change?",
+        "options": ["Paris Agreement", "Kyoto Protocol", "Montreal Protocol", "Copenhagen Accord"],
+        "answer": "Paris Agreement"
+      },
+      {
+        "question": "What is the primary driver of climate change?",
+        "options": ["Human activities", "Solar radiation", "Volcanic eruptions", "Ocean currents"],
+        "answer": "Human activities"
+      },
+      {
+        "question": "Which natural phenomenon refers to the periodic warming of the central and eastern Pacific Ocean?",
+        "options": ["El Niño", "La Niña", "Monsoon", "Typhoon"],
+        "answer": "El Niño"
+      },
+      {
+        "question": "What is the term for the gradual increase in the Earth's average temperature after a volcanic eruption?",
+        "options": ["Volcanic forcing", "Global dimming", "Climate feedback", "Post-eruption cooling"],
+        "answer": "Post-eruption cooling"
+      },
+      {
+        "question": "Which ecosystem is particularly vulnerable to the impacts of climate change?",
+        "options": ["Coral reefs", "Tropical rainforests", "Grasslands", "Mangroves"],
+        "answer": "Coral reefs"
+      },
+      {
+        "question": "What is the main consequence of ocean acidification?",
+        "options": ["Harm to marine life", "Sea level rise", "Increased rainfall", "Ozone depletion"],
+        "answer": "Harm to marine life"
+      },
+      {
+        "question": "What is the term for the process by which carbon dioxide is released into the atmosphere from the burning of fossil fuels?",
+        "options": ["Combustion", "Erosion", "Deforestation", "Anthropogenic emissions"],
+        "answer": "Combustion"
+      },
+      {
+        "question": "Which type of extreme weather event is expected to increase in frequency and intensity due to climate change?",
+        "options": ["Heatwaves", "Snowstorms", "Tornadoes", "Floods"],
+        "answer": "Heatwaves"
+      },
+      {
+        "question": "What is the term for the long-term fluctuations in temperature and precipitation patterns?",
+        "options": ["Climate variability", "Weather patterns", "Atmospheric circulation", "Solar cycles"],
+        "answer": "Climate variability"
+      },
+      {
+        "question": "Which human activity contributes to deforestation and loss of biodiversity, exacerbating climate change?",
+        "options": ["Logging", "Mining", "Urbanization", "Agriculture"],
+        "answer": "Agriculture"
+      },
+      {
+        "question": "What is the term for the layer of greenhouse gases in the Earth's atmosphere that trap heat?",
+        "options": ["Troposphere", "Stratosphere", "Mesosphere", "Greenhouse layer"],
+        "answer": "Troposphere"
+      }
+    ]
+  },
+  {
+    "topic_name": "Nature and Environment",
+    "topic_id": 3,
+    "questions": [
+      {
+        "question": "What is the process by which green plants use sunlight to synthesize food from carbon dioxide and water?",
+        "options": ["Photosynthesis", "Respiration", "Transpiration", "Fermentation"],
+        "answer": "Photosynthesis"
+      },
+      {
+        "question": "Which biome is characterized by dense evergreen forests with high levels of rainfall?",
+        "options": ["Rainforest", "Desert", "Tundra", "Grassland"],
+        "answer": "Rainforest"
+      },
+      {
+        "question": "What is the term for the variety of life on Earth, including plants, animals, and microorganisms?",
+        "options": ["Biodiversity", "Ecology", "Ecosystem", "Habitat"],
+        "answer": "Biodiversity"
+      },
+      {
+        "question": "Which gas, essential for all living organisms, is produced during photosynthesis?",
+        "options": ["Oxygen", "Carbon dioxide", "Nitrogen", "Methane"],
+        "answer": "Oxygen"
+      },
+      {
+        "question": "What is the primary cause of the current global decline in bee populations?",
+        "options": ["Habitat loss", "Pesticide use", "Climate change", "Disease"],
+        "answer": "Pesticide use"
+      },
+      {
+        "question": "Which natural disaster is characterized by a sudden shaking of the ground, often caused by tectonic activity?",
+        "options": ["Earthquake", "Tornado", "Hurricane", "Flood"],
+        "answer": "Earthquake"
+      },
+      {
+        "question": "What is the term for the scientific study of the relationships between organisms and their environment?",
+        "options": ["Ecology", "Biology", "Zoology", "Botany"],
+        "answer": "Ecology"
+      },
+      {
+        "question": "Which gas, when present in high concentrations, contributes to the formation of acid rain?",
+        "options": ["Sulfur dioxide", "Carbon monoxide", "Nitrogen dioxide", "Methane"],
+        "answer": "Sulfur dioxide"
+      },
+      {
+        "question": "Which biome is characterized by low temperatures, permafrost, and sparse vegetation?",
+        "options": ["Tundra", "Desert", "Grassland", "Savanna"],
+        "answer": "Tundra"
+      },
+      {
+        "question": "What is the term for the natural region of Earth's surface occupied by a community of plants and animals?",
+        "options": ["Ecosystem", "Habitat", "Biome", "Niche"],
+        "answer": "Habitat"
+      },
+      {
+        "question": "Which animal is considered a keystone species in many ecosystems due to its role in regulating populations?",
+        "options": ["Beaver", "Wolf", "Deer", "Rabbit"],
+        "answer": "Wolf"
+      },
+      {
+        "question": "What is the process by which water evaporates from the surface of plants and is released into the atmosphere?",
+        "options": ["Transpiration", "Condensation", "Precipitation", "Infiltration"],
+        "answer": "Transpiration"
+      },
+      {
+        "question": "Which biome is characterized by extreme temperatures, sparse vegetation, and limited precipitation?",
+        "options": ["Desert", "Rainforest", "Tundra", "Savanna"],
+        "answer": "Desert"
+      },
+      {
+        "question": "What is the term for the variety of ecosystems within a given region?",
+        "options": ["Biome diversity", "Ecosystem diversity", "Species diversity", "Genetic diversity"],
+        "answer": "Ecosystem diversity"
+      },
+      {
+        "question": "Which gas is the primary component of Earth's atmosphere?",
+        "options": ["Nitrogen", "Oxygen", "Carbon dioxide", "Argon"],
+        "answer": "Nitrogen"
+      },
+      {
+        "question": "What is the term for the gradual increase in the Earth's average temperature due to human activities?",
+        "options": ["Global warming", "Climate change", "Greenhouse effect", "Ozone depletion"],
+        "answer": "Global warming"
+      },
+      {
+        "question": "Which organism is responsible for converting atmospheric nitrogen into a form usable by plants?",
+        "options": ["Nitrogen-fixing bacteria", "Earthworms", "Bees", "Algae"],
+        "answer": "Nitrogen-fixing bacteria"
+      },
+      {
+        "question": "What is the term for the conversion of forests into agricultural or urban land?",
+        "options": ["Deforestation", "Reforestation", "Afforestation", "Decomposition"],
+        "answer": "Deforestation"
+      },
+      {
+        "question": "Which natural disaster is characterized by a sudden, violent windstorm often accompanied by rain, hail, or lightning?",
+        "options": ["Tornado", "Earthquake", "Hurricane", "Flood"],
+        "answer": "Tornado"
+      },
+      {
+        "question": "What is the term for the scientific study of the structure and function of the natural world?",
+        "options": ["Biology", "Ecology", "Botany", "Zoology"],
+        "answer": "Biology"
+      },
+      {
+        "question": "Which gas is primarily responsible for the greenhouse effect?",
+        "options": ["Carbon dioxide", "Methane", "Water vapor", "Ozone"],
+        "answer": "Carbon dioxide"
+      },
+      {
+        "question": "What is the term for the loss of water from the soil surface through evaporation and plant transpiration?",
+        "options": ["Evapotranspiration", "Condensation", "Precipitation", "Infiltration"],
+        "answer": "Evapotranspiration"
+      },
+      {
+        "question": "Which biome is characterized by grasses, shrubs, and occasional trees, with periodic droughts and fires?",
+        "options": ["Savanna", "Rainforest", "Tundra", "Desert"],
+        "answer": "Savanna"
+      },
+      {
+        "question": "What is the term for the introduction of harmful substances or contaminants into the environment?",
+        "options": ["Pollution", "Conservation", "Restoration", "Preservation"],
+        "answer": "Pollution"
+      },
+      {
+        "question": "Which natural resource is derived from living organisms and includes timber, fish, and agricultural crops?",
+        "options": ["Biomass", "Fossil fuels", "Minerals", "Water"],
+        "answer": "Biomass"
+      }
+    ]
+  },
+  {
+    "topic_name": "Current Events and Recent Discoveries",
+    "topic_id": 4,
+    "questions": [
+      {
+        "question": "Which space agency successfully landed the Perseverance rover on Mars in February 2021?",
+        "options": ["NASA", "ESA", "Roscosmos", "CNSA"],
+        "answer": "NASA"
+      },
+      {
+        "question": "In June 2021, scientists announced the discovery of a new species of ancient human ancestor named what?",
+        "options": ["Homo naledi", "Australopithecus sediba", "Homo luzonensis", "Homo longi"],
+        "answer": "Homo longi"
+      },
+      {
+        "question": "What major environmental agreement did the United States rejoin in February 2021?",
+        "options": ["Paris Agreement", "Kyoto Protocol", "Montreal Protocol", "Stockholm Convention"],
+        "answer": "Paris Agreement"
+      },
+      {
+        "question": "Which country became the first to successfully land a rover on the far side of the Moon in January 2019?",
+        "options": ["China", "Russia", "United States", "India"],
+        "answer": "China"
+      },
+      {
+        "question": "In December 2020, which vaccine was the first to receive emergency use authorization for COVID-19?",
+        "options": ["Pfizer-BioNTech", "Moderna", "Johnson & Johnson", "AstraZeneca"],
+        "answer": "Pfizer-BioNTech"
+      },
+      {
+        "question": "Which company launched the first crewed test flight of its Crew Dragon spacecraft in May 2020?",
+        "options": ["SpaceX", "Blue Origin", "Boeing", "Virgin Galactic"],
+        "answer": "SpaceX"
+      },
+      {
+        "question": "In July 2020, scientists reported evidence of a lake beneath the icy surface of which moon of Jupiter?",
+        "options": ["Europa", "Ganymede", "Callisto", "Io"],
+        "answer": "Europa"
+      },
+      {
+        "question": "Which telescope, launched in December 2021, is set to be the successor to the Hubble Space Telescope?",
+        "options": ["James Webb Space Telescope", "Spitzer Space Telescope", "Chandra X-ray Observatory", "Kepler Space Telescope"],
+        "answer": "James Webb Space Telescope"
+      },
+      {
+        "question": "What is the name of the largest and most powerful particle accelerator in the world, located near Geneva, Switzerland?",
+        "options": ["Large Hadron Collider (LHC)", "Fermilab", "Brookhaven National Laboratory", "Stanford Linear Accelerator Center (SLAC)"],
+        "answer": "Large Hadron Collider (LHC)"
+      },
+      {
+        "question": "In October 2021, NASA's Lucy mission launched to study the Trojan asteroids, which are located near which planet?",
+        "options": ["Jupiter", "Saturn", "Mars", "Neptune"],
+        "answer": "Jupiter"
+      },
+      {
+        "question": "Which company's founder, Jeff Bezos, made headlines in July 2021 by briefly traveling to the edge of space?",
+        "options": ["Blue Origin", "SpaceX", "Virgin Galactic", "Boeing"],
+        "answer": "Blue Origin"
+      },
+      {
+        "question": "In December 2019, the COP25 climate conference took place in which city?",
+        "options": ["Madrid", "Paris", "Berlin", "Rome"],
+        "answer": "Madrid"
+      },
+      {
+        "question": "Which asteroid, visited by the Hayabusa2 spacecraft, delivered samples to Earth in December 2020?",
+        "options": ["Ryugu", "Bennu", "Itokawa", "Vesta"],
+        "answer": "Ryugu"
+      },
+      {
+        "question": "In January 2022, scientists reported the discovery of a new species of whale off the coast of which country?",
+        "options": ["Mexico", "Australia", "Japan", "Norway"],
+        "answer": "Mexico"
+      },
+      {
+        "question": "Which country's space agency successfully landed its Zhurong rover on Mars in May 2021?",
+        "options": ["China", "Russia", "United States", "India"],
+        "answer": "China"
+      },
+      {
+        "question": "In November 2021, astronomers detected the largest known black hole collision to date using which observatory?",
+        "options": ["LIGO", "ALMA", "Hubble Space Telescope", "Chandra X-ray Observatory"],
+        "answer": "LIGO"
+      },
+      {
+        "question": "What is the name of the mission launched by NASA in November 2021 to study the geology of Mars' surface?",
+        "options": ["Mars Perseverance", "Mars InSight", "Mars Curiosity", "Mars Reconnaissance Orbiter"],
+        "answer": "Mars Perseverance"
+      },
+      {
+        "question": "Which country's government announced plans to build the world's largest offshore wind farm in January 2022?",
+        "options": ["United Kingdom", "Germany", "Denmark", "Netherlands"],
+        "answer": "United Kingdom"
+      },
+      {
+        "question": "In April 2019, scientists released the first-ever image of which astronomical phenomenon?",
+        "options": ["Black hole", "Neutron star", "Supernova", "Galaxy"],
+        "answer": "Black hole"
+      },
+      {
+        "question": "Which country's space agency announced plans to send astronauts to the Moon by 2024 as part of the Artemis program?",
+        "options": ["United States", "Russia", "China", "European Space Agency (ESA)"],
+        "answer": "United States"
+      },
+      {
+        "question": "In August 2021, researchers announced the discovery of the world's northernmost known permanent settlement on which island?",
+        "options": ["Greenland", "Svalbard", "Iceland", "Ellesmere Island"],
+        "answer": "Svalbard"
+      },
+      {
+        "question": "Which organization's scientists published a report in August 2021 warning of the accelerating pace of climate change?",
+        "options": ["Intergovernmental Panel on Climate Change (IPCC)", "World Meteorological Organization (WMO)", "National Aeronautics and Space Administration (NASA)", "European Space Agency (ESA)"],
+        "answer": "Intergovernmental Panel on Climate Change (IPCC)"
+      },
+      {
+        "question": "In March 2021, scientists reported the discovery of a new species of dinosaur in which country?",
+        "options": ["Australia", "Canada", "Argentina", "China"],
+        "answer": "Argentina"
+      },
+      {
+        "question": "Which oceanic phenomenon, characterized by warmer-than-average sea surface temperatures, is associated with extreme weather events?",
+        "options": ["El Niño", "La Niña", "Southern Oscillation", "Monsoon"],
+        "answer": "El Niño"
+      },
+      {
+        "question": "In July 2021, which company's spacecraft, Unity 22, carried its founder, Richard Branson, on a suborbital spaceflight?",
+        "options": ["Virgin Galactic", "Blue Origin", "SpaceX", "Boeing"],
+        "answer": "Virgin Galactic"
+      }
+    ]
+  },
+  {
+    "topic_name": "Fun Facts and Trivia",
+    "topic_id": 5,
+    "questions": [
+      {
+        "question": "What is the only planet in our solar system that rotates on its side?",
+        "options": ["Uranus", "Neptune", "Saturn", "Jupiter"],
+        "answer": "Uranus"
+      },
+      {
+        "question": "Which mammal is capable of flying without wings?",
+        "options": ["Flying squirrel", "Bat", "Pegasus", "Sugar glider"],
+        "answer": "Bat"
+      },
+      {
+        "question": "What is the only bird that can fly backward?",
+        "options": ["Hummingbird", "Eagle", "Penguin", "Ostrich"],
+        "answer": "Hummingbird"
+      },
+      {
+        "question": "Which animal is known as the fastest land animal?",
+        "options": ["Cheetah", "Lion", "Gazelle", "Leopard"],
+        "answer": "Cheetah"
+      },
+      {
+        "question": "What is the most common element in the Earth's crust?",
+        "options": ["Oxygen", "Silicon", "Carbon", "Iron"],
+        "answer": "Oxygen"
+      },
+      {
+        "question": "Which is the largest mammal in the world?",
+        "options": ["Blue whale", "Elephant", "Giraffe", "Hippopotamus"],
+        "answer": "Blue whale"
+      },
+      {
+        "question": "How many bones are there in the adult human body?",
+        "options": ["206", "300", "150", "120"],
+        "answer": "206"
+      },
+      {
+        "question": "What is the only planet in the solar system not named after a god?",
+        "options": ["Earth", "Mars", "Venus", "Jupiter"],
+        "answer": "Earth"
+      },
+      {
+        "question": "Which planet is known as the 'Morning Star' and 'Evening Star'?",
+        "options": ["Venus", "Mercury", "Mars", "Jupiter"],
+        "answer": "Venus"
+      },
+      {
+        "question": "What is the world's tallest tree species?",
+        "options": ["Redwood", "Sequoia", "Douglas fir", "Eucalyptus"],
+        "answer": "Redwood"
+      },
+      {
+        "question": "What is the smallest bone in the human body?",
+        "options": ["Stapes", "Femur", "Humerus", "Tibia"],
+        "answer": "Stapes"
+      },
+      {
+        "question": "Which planet has the most moons in our solar system?",
+        "options": ["Jupiter", "Saturn", "Uranus", "Neptune"],
+        "answer": "Jupiter"
+      },
+      {
+        "question": "What is the only continent with land in all four hemispheres?",
+        "options": ["Africa", "Europe", "South America", "Asia"],
+        "answer": "Africa"
+      },
+      {
+        "question": "Which is the only mammal capable of true sustained flight?",
+        "options": ["Bat", "Flying squirrel", "Hummingbird", "Penguin"],
+        "answer": "Bat"
+      },
+      {
+        "question": "What is the only bird that can swim but cannot fly?",
+        "options": ["Penguin", "Duck", "Swan", "Pelican"],
+        "answer": "Penguin"
+      },
+      {
+        "question": "What is the hardest natural substance found on Earth?",
+        "options": ["Diamond", "Iron", "Gold", "Platinum"],
+        "answer": "Diamond"
+      },
+      {
+        "question": "Which is the only mammal capable of echolocation?",
+        "options": ["Bat", "Dolphin", "Elephant", "Horse"],
+        "answer": "Bat"
+      },
+      {
+        "question": "What is the largest organ in the human body?",
+        "options": ["Skin", "Liver", "Heart", "Brain"],
+        "answer": "Skin"
+      },
+      {
+        "question": "What is the only planet in our solar system that has no moons?",
+        "options": ["Mercury", "Venus", "Mars", "Saturn"],
+        "answer": "Mercury"
+      },
+      {
+        "question": "What is the only bird that can fly backward?",
+        "options": ["Hummingbird", "Eagle", "Penguin", "Ostrich"],
+        "answer": "Hummingbird"
+      },
+      {
+        "question": "Which animal's teeth never stop growing?",
+        "options": ["Rabbit", "Tiger", "Elephant", "Horse"],
+        "answer": "Rabbit"
+      },
+      {
+        "question": "Which is the only mammal that can't jump?",
+        "options": ["Elephant", "Kangaroo", "Giraffe", "Rabbit"],
+        "answer": "Elephant"
+      },
+      {
+        "question": "What is the only mammal that can't jump?",
+        "options": ["Elephant", "Kangaroo", "Giraffe", "Rabbit"],
+        "answer": "Elephant"
+      },
+      {
+        "question": "Which animal is capable of regenerating its limbs?",
+        "options": ["Starfish", "Octopus", "Crab", "Lizard"],
+        "answer": "Starfish"
+      },
+      {
+        "question": "What is the only planet in the solar system to rotate clockwise?",
+        "options": ["Venus", "Uranus", "Jupiter", "Mercury"],
+        "answer": "Venus"
+      }
+    ]
+  }
+]
